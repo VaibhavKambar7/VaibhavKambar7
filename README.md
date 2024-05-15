@@ -4,6 +4,7 @@
 - I'm a software developer, and I love building stuffs.
 - I mostly work as a full stack developer, handling both frontend and backend.
 - I'm also interested in Web3 and exploring LLMs at the moment.
+- You can reach out to me at vaibhavkambar123@gmail.com
 
 <table>
   <tr>
