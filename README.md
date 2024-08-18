@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e40ef48-4d95-4334-bb2c-df71269e27cb)### Hi there, I'm Vaibhav Kambar 👋
+### Hi there, I'm Vaibhav Kambar 👋
 
 - I’m a final-year engineering student based in Mumbai.
 - I'm a software developer, and I love building stuffs.
