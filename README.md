@@ -23,7 +23,7 @@
     <td><strong>Tools & Technologies</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=git,nodejs,prisma,docker,kubernetes,postgres,mongodb,redis,postman,aws,androidstudio"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,nodejs,prisma,postgres,mongodb,redis,docker,kubernetes,postman,aws,androidstudio"></td>
   </tr>
 </table>
 
