@@ -1,4 +1,4 @@
-### Hi there, I'm Vaibhav Kambar 👋
+![image](https://github.com/user-attachments/assets/1e40ef48-4d95-4334-bb2c-df71269e27cb)### Hi there, I'm Vaibhav Kambar 👋
 
 - I’m a final-year engineering student based in Mumbai.
 - I'm a software developer, and I love building stuffs.
@@ -11,19 +11,19 @@
     <td><strong>Languages</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,go,dart,kotlin,solidity"></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,python,java,cpp,go,dart,kotlin,solidity"></td>
   </tr>
   <tr>
     <td><strong>Frameworks & Libraries</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,express,flask,django,flutter,mui,bootstrap,redux"></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,mui,express,flask,flutter,"></td>
   </tr>
   <tr>
     <td><strong>Tools & Technologies</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=git,nodejs,bun,prisma,docker,kubernetes,postgres,mysql,mongodb,firebase,redis,postman,aws,vercel,androidstudio"></td>
+    <td><img src="https://skillicons.dev/icons?i=git,nodejs,prisma,docker,kubernetes,postgres,mongodb,redis,postman,aws,androidstudio"></td>
   </tr>
 </table>
 
