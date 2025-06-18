@@ -2,7 +2,7 @@
 
 - I’m a software engineer based in Mumbai.
 - I mostly work as a full stack developer.
-- Currently, I'm learning about agents and diving into AI,
+- Currently, I'm learning about agents and diving into AI.
 - You can reach out to me at vaibhavkambar123@gmail.com.
 
 
