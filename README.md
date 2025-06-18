@@ -1,10 +1,10 @@
 ### Hi there, I'm Vaibhav Kambar 👋
 
-- I’m a final-year engineering student based in Mumbai.
-- I'm a software developer, and I love building stuffs.
-- I mostly work as a full stack developer, handling both frontend and backend.
-- I'm also interested in Web3 and exploring LLMs at the moment.
-- You can reach out to me at vaibhavkambar123@gmail.com
+- I’m a software engineer based in Mumbai.
+- I mostly work as a full stack developer.
+- Currently, I'm learning about agents and diving into AI,
+- You can reach out to me at vaibhavkambar123@gmail.com.
+
 
 <table>
   <tr>
